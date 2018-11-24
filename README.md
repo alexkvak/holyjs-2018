@@ -1,7 +1,11 @@
 # Типизированный API во времени выполнения
 
-Ссылки:
+Библиотеки, рассмотренные в докладе:
 
 https://github.com/typestack/class-transformer
 
 https://github.com/gcanti/io-ts
+
+Наша команда и вакансии:
+
+https://adara.io/team/
